@@ -334,3 +334,8 @@
 - Place: São Paulo, Brazil
 - Bio: Student and a future JS developer
 - Github: [Cristian Silva](https://github.com/Cristuker)
+
+#### Name: [Samann Pinder](https://github.com/spinder96)
+- Place: Tampa, Florida
+- Bio: Computer Science student
+- GitHub: [Samann Pinder](https://github.com/spinder96)
